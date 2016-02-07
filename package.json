@@ -1,0 +1,7 @@
+{
+	"name": "helloworld",
+	"main": "index.html",
+    "frame": false,
+    "toolbar": false,
+	"transparent": true
+}
